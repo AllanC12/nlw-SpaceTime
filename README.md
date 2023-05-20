@@ -2,7 +2,7 @@
 Semana de projetos da RocketSeat
 
 <div>
-<img src="https://github.com/AllanC12/nlw-SpaceTime/assets/112294367/272e8c96-94f7-4e70-8390-70a66a298122"/>
+<img src="https://github.com/AllanC12/nlw-SpaceTime/assets/112294367/ed18ca4d-92d6-4456-98f0-3d93ae242b6b"/>
 </div>
 
 ## 🖥️ Projeto
