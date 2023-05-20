@@ -23,6 +23,6 @@ _ Git e Github.
 Você pode visualizar o layout deste projeto através [desse link](https://www.figma.com/file/nzKeDaYaOnsKFDrpZDcAWT/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)-(Copy)?type=design&node-id=352%3A8&t=13j7es6WudSTu9pa-1).
 
 
-É necessário ter uma conta no [figma](hhtps://www.figma.com)
+É necessário ter uma conta no [figma](https://www.figma.com)
 
 
